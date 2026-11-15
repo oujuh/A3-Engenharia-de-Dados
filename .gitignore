@@ -1,0 +1,5 @@
+# Gerados pelo pipeline (ver README.md)
+saida/
+dados_brutos/
+__pycache__/
+*.pyc
